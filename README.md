@@ -1,6 +1,13 @@
-# Hi, I'm Nurin Irdina 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=header&animation=fadeIn" width="100%"/>
+
+# Hi, I'm Nurin Irdina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
 
 ### 3rd Year Computer Science Student @ UiTM
+
+<a href="https://github.com/nurinirdnz">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8A2BE2&vCenter=true&width=620&lines=Aspiring+Business+%26+Data+Analyst;SQL+%C2%B7+Data+Visualization+%C2%B7+System+Analysis;Full-Stack+Developer;Exploring+AI+%26+Machine+Learning" alt="Typing SVG" />
+</a>
+
 **Aspiring Business & Data Analyst | SQL · Data Visualization · System Analysis · Full-Stack Development**
 
 I'm a Computer Science student at **Universiti Teknologi MARA (UiTM)** with an interest in transforming data and business requirements into practical insights and digital solutions.
@@ -33,13 +40,13 @@ My current interests include **Business Analysis, Data Analytics, Machine Learni
 `Python` · `Java` · `C++` · `JavaScript` · `TypeScript` · `PHP`
 
 ### Web & Full-Stack
-`React` · `Node.js` · `Express.js` · `REST API` · `HTML` · `CSS`
+`React` · `Node.js` · `Express.js` · `REST API` · `Tailwind CSS` · `HTML` · `CSS`
 
 ### AI & Machine Learning
 `TensorFlow` · `Keras` · `CNN` · `Computer Vision` · `LLM API Integration`
 
 ### Tools & Technologies
-`Git` · `GitHub` · `Docker` · `PostgreSQL` · `SQLite` · `Oracle Database` · `Streamlit` · `GitHub Actions`
+`Git` · `GitHub` · `Docker` · `PostgreSQL` · `Redis` · `SQLite` · `Oracle Database` · `Streamlit` · `GitHub Actions`
 
 ---
 
@@ -49,6 +56,13 @@ My current interests include **Business Analysis, Data Analytics, Machine Learni
 A centralized academic resource and student collaboration platform for Malaysian university students, combining resource sharing, discussions, tutoring and AI-powered study tools.
 
 **Tech:** React · TypeScript · Node.js · Express · PostgreSQL · OpenAI API · Docker
+
+---
+
+### 🛒 [JomBeli](https://github.com/nurinirdnz/Jom-Beli)
+A full-stack online shopping app with product search and filtering, a slide-in cart, JWT-secured accounts and order history. Prices are verified server-side at checkout, orders are saved in database transactions, and product lookups are cached in Redis. Built during the **KADA AI-Enabled Full Stack Bootcamp**.
+
+**Tech:** React · Zustand · Tailwind CSS · Node.js · Express · PostgreSQL (Supabase) · Redis · JWT
 
 ---
 
@@ -104,4 +118,6 @@ My portfolio includes my projects, technical experience, education, leadership e
 ---
 
 ### Currently exploring
-**Business Analysis · Data Analytics · SQL · Data Visualization · Machine Learning · AI · Full-Stack Systems**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=8A2BE2&vCenter=true&width=700&lines=Business+Analysis+%C2%B7+Data+Analytics+%C2%B7+SQL;Data+Visualization+%C2%B7+Machine+Learning+%C2%B7+AI;Full-Stack+Systems" alt="Currently exploring" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer&animation=fadeIn" width="100%"/>
