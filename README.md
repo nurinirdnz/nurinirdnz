@@ -59,6 +59,37 @@ I enjoy exploring how technology, data, and thoughtful system design can improve
 
 ## 🚀 Featured Projects
 
+
+### 🏙️ [SimeTown — Township Super-App](https://github.com/nurinirdnz/SimeTown)
+
+**Role: Team Leader | Sime Darby Property University Hackathon 2026**
+
+A student-built, multi-role township super-app developed for the **Township of Tomorrow — People & Planet** challenge.
+
+SimeTown brings essential township services into a single digital platform, connecting residents, businesses, guards, couriers, sponsors and township management.
+
+**Key Features:**
+- **Resident Services:** Community events, neighbourhood assistance, reporting, visitor passes, parcel collection and home-service bookings.
+- **Sustainability & Rewards:** Recycling activities, walking routes, merchant offers and a funded points-and-XP system.
+- **Safety & Accessibility:** Flood monitoring and alerts, accessibility options, Simple Mode, read-aloud support and emergency assistance workflows.
+- **Smart Parcel Management:** Smart locker simulation, courier verification, one-time collection codes and guardhouse operations.
+- **Administrative Insights:** Staff workflows, incident tracking, role-based dashboards and township performance reporting.
+- **AI Assistance:** A resident-facing assistant supporting information lookup and selected confirmed actions.
+
+**Leadership Contributions:**
+- Led the student team in developing an integrated township solution.
+- Helped align technical implementation and user experience with the hackathon's People & Planet objectives.
+- Contributed to the development and presentation of the project.
+
+**Focus:** Team Leadership · Full-Stack Development · System Design · UI/UX · Smart Communities · Sustainability
+
+> **Note:** SimeTown is an independent student prototype, not an official Sime Darby Property product. Demo data and integrations are simulated.
+
+📂 **[View SimeTown Repository](https://github.com/nurinirdnz/SimeTown)**
+
+---
+
+
 ### 🔥 [Final Year Project — AI-Based Fire Hotspot Classification & Haze Risk Prediction](https://github.com/nurinirdnz/Final-Year-Project)
 
 **AI-Based Real-Time Classification and Prioritisation of Fire Hotspots for Transboundary Haze Risk in Sarawak**
