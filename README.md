@@ -1,281 +1,228 @@
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=header&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF4B8,45:FACC15,100:EAB308&height=220&section=header&text=NURIN%20IRDINA&fontSize=52&fontColor=171717&fontAlignY=38&desc=Computer%20Science%20%7C%20Data%20%7C%20AI%20%7C%20Full-Stack&descAlignY=60&descSize=17&animation=fadeIn" alt="Nurin Irdina header" />
 
-# Hi, I'm Nurin Irdina 👋
+<a href="https://github.com/nurinirdnz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=D4A000&center=true&vCenter=true&width=750&lines=Aspiring+Business+%26+Data+Analyst;Full-Stack+Developer;Exploring+AI+%26+Machine+Learning;Building+Data-Driven+Digital+Solutions" alt="Animated introduction" /></a>
 
-### 🎓 3rd Year Computer Science Student @ UiTM
+<p><strong>🎓 Third-Year Bachelor of Computer Science (Hons.) · Universiti Teknologi MARA (UiTM)</strong></p>
 
-<a href="https://github.com/nurinirdnz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8A2BE2&vCenter=true&width=750&lines=Aspiring+Business+%26+Data+Analyst;Full-Stack+Developer;Exploring+AI+%26+Machine+Learning;Building+Data-Driven+Digital+Solutions" alt="Typing SVG" />
-</a>
+<a href="https://www.linkedin.com/in/nurinirdinaz/"><img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=FACC15" alt="LinkedIn" /></a>
+<a href="https://nurin-irdina-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-FACC15?style=for-the-badge&logo=vercel&logoColor=171717" alt="Portfolio" /></a>
+<a href="mailto:nurinirdnz@gmail.com"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=FACC15" alt="Email" /></a>
+<a href="https://github.com/nurinirdnz"><img src="https://img.shields.io/badge/GitHub-FACC15?style=for-the-badge&logo=github&logoColor=171717" alt="GitHub" /></a>
 
-**Aspiring Business & Data Analyst | Full-Stack Development | Artificial Intelligence | Data Analytics**
+<img src="https://komarev.com/ghpvc/?username=nurinirdnz&label=PROFILE+VIEWS&color=EAB308&style=flat-square" alt="Profile views" />
 
-I'm a **Bachelor of Computer Science (Hons.)** student at **Universiti Teknologi MARA (UiTM)** with a passion for turning complex problems into practical, data-driven solutions.
-
-My interests span **Business Analysis, Data Analytics, System Analysis, Artificial Intelligence, Machine Learning, and Software Engineering**.
-
-I enjoy exploring how technology, data, and thoughtful system design can improve decision-making, automate workflows, and solve real-world challenges.
+</div>
 
 ---
 
-## 👩‍💻 About Me
+## ✨ Hello, world!
 
-- 🎓 Pursuing a **Bachelor of Computer Science (Hons.) at UiTM**
-- 📊 Interested in **Business Analysis, Data Analytics & System Analysis**
-- 🤖 Exploring **Artificial Intelligence, Machine Learning & Computer Vision**
-- 🌏 Developing an **AI-based transboundary haze risk prediction system** for my Final Year Project
-- 💻 Experienced in building **full-stack web applications and database-driven systems**
-- 🔄 Practising **Agile development, Git workflows, CI/CD and automated testing**
-- 🗄️ Working with **SQL, relational databases, data processing and visualization**
-- 🎯 Passionate about building **user-centered, scalable and impactful digital solutions**
+I'm a **Computer Science student at UiTM** who enjoys turning complex problems into **practical, data-driven digital solutions**. My interests span **business and system analysis, data analytics, AI/ML, and full-stack software engineering**. I love designing systems that help people make better decisions and simplify everyday workflows.
+
+<table><tr><td width="50%">
+
+### 🎯 What I'm focused on
+
+- 📊 Business, data & system analysis
+- 🤖 AI, machine learning & computer vision
+- 💻 Full-stack applications & REST APIs
+- 🗄️ Databases, SQL & data visualization
+
+</td><td width="50%">
+
+### 🌱 What I'm building
+
+- 🔥 **FYP:** AI-based fire hotspot classification and transboundary haze risk prioritisation in Sarawak
+- 🏙️ **SimeTown:** A multi-role smart township prototype
+- 🔄 Better engineering workflows with CI/CD, automated testing and Git
+
+</td></tr></table>
+
+## 🧰 Tech toolbox
+
+<div align="center">
+
+**Languages & data**
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,php,postgres,mysql&theme=light" alt="Languages and databases" />
+
+**Web development**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,html,css&theme=light" alt="Web technologies" />
+
+**AI, development & infrastructure**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,git,github,githubactions,docker&theme=light" alt="AI and developer tools" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Business%20Analysis-171717?style=flat-square&logoColor=FACC15" /> <img src="https://img.shields.io/badge/System%20Analysis-EAB308?style=flat-square&logoColor=black" /> <img src="https://img.shields.io/badge/UML%20%26%20ERD-171717?style=flat-square" /> <img src="https://img.shields.io/badge/REST%20APIs-EAB308?style=flat-square" /> <img src="https://img.shields.io/badge/Agile%20%26%20Scrum-171717?style=flat-square" /> <img src="https://img.shields.io/badge/Automated%20Testing-EAB308?style=flat-square" />
+
+</div>
+
+<details>
+<summary><strong>🔎 Explore my full skill set (click to expand)</strong></summary>
+
+| Area | Skills |
+|---|---|
+| 📊 Data & analytics | SQL, MySQL, Oracle SQL, Python, SPSS, data analysis, visualization, database design |
+| 📋 Business & systems | Requirements analysis, system analysis, UML, ERD, database modelling, technical documentation |
+| 💻 Programming | Python, Java, C++, JavaScript, TypeScript, PHP |
+| 🌐 Full-stack | React, Node.js, Express.js, REST APIs, Tailwind CSS, HTML, CSS |
+| 🤖 AI & ML | TensorFlow, Keras, CNN, computer vision, machine learning, LLM API integration |
+| ⚙️ Platforms & tools | Git, GitHub, GitHub Actions, Docker, PostgreSQL, Redis, SQLite, Oracle Database, Streamlit |
+| 🔄 Practices | Agile, Scrum, CI/CD, automated testing, version control, pull requests, code review |
+
+</details>
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 Featured projects
 
-### 📊 Data & Analytics
-`SQL` · `MySQL` · `Oracle SQL` · `Python` · `SPSS` · `Data Analysis` · `Data Visualization` · `Database Design`
+<div align="center">
 
-### 📋 Business & System Analysis
-`Requirements Analysis` · `System Analysis` · `Software Engineering` · `UML` · `ERD` · `Database Modelling` · `Technical Documentation`
+<a href="https://github.com/nurinirdnz/SimeTown"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nurinirdnz&repo=SimeTown&theme=gruvbox_light&hide_border=false&border_color=EAB308" alt="SimeTown repository card" /></a>
+<a href="https://github.com/nurinirdnz/Final-Year-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nurinirdnz&repo=Final-Year-Project&theme=gruvbox_light&hide_border=false&border_color=EAB308" alt="Final Year Project repository card" /></a>
+<a href="https://github.com/nurinirdnz/Jom-Dekan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nurinirdnz&repo=Jom-Dekan&theme=gruvbox_light&hide_border=false&border_color=EAB308" alt="JomDekan repository card" /></a>
+<a href="https://github.com/nurinirdnz/CSC640-week4-lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nurinirdnz&repo=CSC640-week4-lab&theme=gruvbox_light&hide_border=false&border_color=EAB308" alt="CSC640 repository card" /></a>
 
-### 💻 Programming Languages
-`Python` · `Java` · `C++` · `JavaScript` · `TypeScript` · `PHP`
-
-### 🌐 Web & Full-Stack Development
-`React` · `Node.js` · `Express.js` · `REST APIs` · `Tailwind CSS` · `HTML` · `CSS`
-
-### 🤖 Artificial Intelligence & Machine Learning
-`TensorFlow` · `Keras` · `CNN` · `Computer Vision` · `Machine Learning` · `LLM API Integration`
-
-### ⚙️ Development Tools & Technologies
-`Git` · `GitHub` · `GitHub Actions` · `Docker` · `PostgreSQL` · `Redis` · `SQLite` · `Oracle Database` · `Streamlit`
-
-### 🔄 Development Practices
-`Agile` · `Scrum` · `CI/CD` · `Automated Testing` · `Version Control` · `Pull Requests` · `Code Review`
-
----
-
-## 🚀 Featured Projects
-
+</div>
 
 ### 🏙️ [SimeTown — Township Super-App](https://github.com/nurinirdnz/SimeTown)
 
-**Role: Team Leader | Sime Darby Property University Hackathon 2026**
+**Team Leader · Sime Darby Property University Hackathon 2026**
 
-A student-built, multi-role township super-app developed for the **Township of Tomorrow — People & Planet** challenge.
+A student-built, multi-role township prototype for the **Township of Tomorrow — People & Planet** challenge, connecting residents, merchants, couriers, guards and township management.
 
-SimeTown brings essential township services into a single digital platform, connecting residents, businesses, guards, couriers, sponsors and township management.
+<details>
+<summary><strong>🟡 Explore SimeTown's features and my contributions</strong></summary>
 
-**Key Features:**
-- **Resident Services:** Community events, neighbourhood assistance, reporting, visitor passes, parcel collection and home-service bookings.
-- **Sustainability & Rewards:** Recycling activities, walking routes, merchant offers and a funded points-and-XP system.
-- **Safety & Accessibility:** Flood monitoring and alerts, accessibility options, Simple Mode, read-aloud support and emergency assistance workflows.
-- **Smart Parcel Management:** Smart locker simulation, courier verification, one-time collection codes and guardhouse operations.
-- **Administrative Insights:** Staff workflows, incident tracking, role-based dashboards and township performance reporting.
-- **AI Assistance:** A resident-facing assistant supporting information lookup and selected confirmed actions.
+- 🏡 **Resident services:** Community events, neighbourhood assistance, reports, visitor passes, parcels and service bookings.
+- ♻️ **Sustainability:** Recycling, walking routes, merchant offers and points/XP rewards.
+- 🛟 **Safety & accessibility:** Flood alerts, Simple Mode, read-aloud support and emergency assistance workflows.
+- 📦 **Smart parcels:** Locker simulation, courier verification, one-time codes and guardhouse operations.
+- 📈 **Operations:** Role-based dashboards, staff workflows, incident tracking and reporting.
+- 🤖 **AI assistance:** Resident information lookup and selected confirmed actions.
+- 👩‍💻 **My role:** Led the team, helped align technical design and UX with the challenge, and contributed to development and presentation.
 
-**Leadership Contributions:**
-- Led the student team in developing an integrated township solution.
-- Helped align technical implementation and user experience with the hackathon's People & Planet objectives.
-- Contributed to the development and presentation of the project.
+**Focus:** Team leadership · Full-stack · System design · UI/UX · Sustainability
 
-**Focus:** Team Leadership · Full-Stack Development · System Design · UI/UX · Smart Communities · Sustainability
+> Independent student prototype, not an official Sime Darby Property product. Demo data and integrations are simulated.
 
-> **Note:** SimeTown is an independent student prototype, not an official Sime Darby Property product. Demo data and integrations are simulated.
+</details>
 
-📂 **[View SimeTown Repository](https://github.com/nurinirdnz/SimeTown)**
+### 🔥 [Final Year Project — AI Fire Hotspot & Haze Risk](https://github.com/nurinirdnz/Final-Year-Project)
 
----
+**AI-Based Real-Time Classification and Prioritisation of Fire Hotspots for Transboundary Haze Risk in Sarawak** · *Ongoing*
 
+A proposed AI and environmental analytics system combining satellite fire detections, weather and air-quality observations to support proactive haze risk monitoring.
 
-### 🔥 [Final Year Project — AI-Based Fire Hotspot Classification & Haze Risk Prediction](https://github.com/nurinirdnz/Final-Year-Project)
+<details>
+<summary><strong>🟡 Explore proposed objectives and technology</strong></summary>
 
-**AI-Based Real-Time Classification and Prioritisation of Fire Hotspots for Transboundary Haze Risk in Sarawak**
-
-An ongoing AI and data analytics project focused on predicting transboundary haze risks affecting Sarawak, Malaysia.
-
-The proposed system combines satellite fire hotspot detections, meteorological data, and air quality observations to help environmental agencies identify high-risk fire activity before haze reaches affected communities.
-
-**Project Objectives:**
-- Classify satellite fire hotspots into persistent fires and short-lived detections.
+- Classify fire hotspots into persistent fires and short-lived detections.
 - Predict next-day haze conditions using machine learning.
-- Prioritize fire hotspots based on their potential transboundary haze risk.
-- Develop a near real-time interactive monitoring dashboard.
-- Support proactive environmental monitoring and decision-making.
+- Prioritise hotspots by potential transboundary haze impact.
+- Develop a near-real-time interactive monitoring dashboard.
+- Support environmental monitoring and decision-making.
 
-**Planned Technology:** Python · pandas · NumPy · scikit-learn · XGBoost · Streamlit · Folium · NASA FIRMS · Himawari-9
+**Planned tools:** Python · pandas · NumPy · scikit-learn · XGBoost · Streamlit · Folium · NASA FIRMS · Himawari-9
 
-**Focus:** Artificial Intelligence · Machine Learning · Environmental Analytics · Predictive Modelling · Decision Support Systems
-
-📂 **[View FYP Repository](https://github.com/nurinirdnz/Final-Year-Project)**
-
----
-
-### 🔄 [CSC640 Week 4 Lab — Git, Automated Testing & CI/CD](https://github.com/nurinirdnz/CSC640-week4-lab)
-
-A practical software engineering laboratory project focused on GitHub-based development workflows, automated testing, and continuous integration and deployment.
-
-The laboratory explores how code changes move through version control, automated validation, and deployment workflows.
-
-**Key Learning Areas:**
-- Git branching, commits, and repository management.
-- GitHub pull requests and collaborative development.
-- Automated software testing with Python.
-- GitHub Actions for continuous integration.
-- Understanding passing and failing test workflows.
-- Continuous deployment using GitHub Pages.
-- Debugging and validating changes through CI results.
-
-**Tech:** Python · Git · GitHub · GitHub Actions · GitHub Pages
-
-**Focus:** Software Engineering · DevOps Fundamentals · CI/CD · Automated Testing
-
-📂 **[View CSC640 Week 4 Lab](https://github.com/nurinirdnz/CSC640-week4-lab)**
-
----
+</details>
 
 ### 🎓 [JomDekan — Academic Collaboration Platform](https://github.com/nurinirdnz/Jom-Dekan)
 
-A centralized academic resource and student collaboration platform designed for Malaysian university students.
+A centralised student platform for academic resource sharing, discussions, tutoring and AI-powered study tools.
 
-The platform brings together academic resource sharing, student discussions, tutoring, and AI-powered study tools in one digital learning environment.
+**Stack:** React · TypeScript · Node.js · Express · PostgreSQL · OpenAI API · Docker
 
-**Tech:** React · TypeScript · Node.js · Express · PostgreSQL · OpenAI API · Docker
+### 🔄 [CSC640 — Git, Testing & CI/CD Lab](https://github.com/nurinirdnz/CSC640-week4-lab)
 
-**Focus:** Full-Stack Development · Educational Technology · AI Integration
+A practical lab covering Git branching, pull requests, Python automated testing, GitHub Actions, CI validation and GitHub Pages deployment.
 
-📂 **[View Repository](https://github.com/nurinirdnz/Jom-Dekan)**
+**Stack:** Python · Git · GitHub · GitHub Actions · GitHub Pages
 
----
+<details>
+<summary><strong>📁 More projects — click to explore</strong></summary>
 
-### 🛒 [JomBeli — Full-Stack E-Commerce Platform](https://github.com/nurinirdnz/Jom-Beli)
+### 🛒 [JomBeli — Full-Stack E-Commerce](https://github.com/nurinirdnz/Jom-Beli)
 
-A full-stack online shopping application developed during the **KADA AI-Enabled Full Stack Bootcamp**.
+Built during the **KADA AI-Enabled Full Stack Bootcamp**. Includes search/filtering, shopping cart, JWT authentication, order history, server-side price verification, transactions and Redis caching.
 
-**Features:**
-- Product search and filtering.
-- Interactive shopping cart.
-- JWT-secured user authentication.
-- Order history management.
-- Server-side price verification.
-- Database transaction handling.
-- Redis-powered caching.
+**Stack:** React · Zustand · Tailwind CSS · Node.js · Express · PostgreSQL · Supabase · Redis · JWT
 
-**Tech:** React · Zustand · Tailwind CSS · Node.js · Express · PostgreSQL · Supabase · Redis · JWT
+### 🏃 FitWUs — AI Fitness & Wellness
 
-**Focus:** Full-Stack Development · Database Systems · API Design
+Full-stack platform for fitness, nutrition, hydration and wellness routines, with analytics and an AI assistant.
 
-📂 **[View Repository](https://github.com/nurinirdnz/Jom-Beli)**
+**Stack:** React · JavaScript · Node.js · Express · MySQL · REST API · LLM integration
 
----
+### 🐾 Animal Image Classification
 
-### 🏃 FitWUs — AI Fitness & Wellness Platform
+CNN-based animal image classifier with a Streamlit upload and prediction interface.
 
-A full-stack wellness management platform that allows users to monitor their fitness activities, nutrition, hydration, and overall health-related routines.
-
-Includes analytics features and an AI-powered wellness assistant.
-
-**Tech:** React · JavaScript · Node.js · Express · MySQL · REST API · LLM Integration
-
-**Focus:** Full-Stack Development · Wellness Analytics · AI Integration
-
----
-
-### 🐾 Animal Image Classification — Deep Learning
-
-A computer vision application that uses a Convolutional Neural Network (CNN) to classify animal images.
-
-Includes an interactive Streamlit interface for image uploads and classification results.
-
-**Tech:** Python · TensorFlow · Keras · CNN · Streamlit
-
-**Focus:** Deep Learning · Computer Vision · Image Classification
-
----
+**Stack:** Python · TensorFlow · Keras · CNN · Streamlit
 
 ### 🏥 Clinical Management System
 
-A database-driven web application designed to manage clinical and patient-related information through structured data management workflows.
+Database-driven application for structured clinical and patient information workflows.
 
-**Tech:** PHP · Oracle Database · SQL · HTML · CSS
+**Stack:** PHP · Oracle Database · SQL · HTML · CSS
 
-**Focus:** Database Management · Web Development · System Analysis
+### 🛍️ PreYourLoveds!
 
----
+Pre-loved e-commerce application built with Java MVC architecture.
 
-### 🛍️ PreYourLoveds! — Pre-Loved E-Commerce Platform
+**Stack:** Java · JSP · Servlets · JavaBeans · MySQL · MVC
 
-A Java-based e-commerce system for listing, discovering, and managing pre-loved products.
-
-Developed using the Model-View-Controller (MVC) architecture.
-
-**Tech:** Java · JSP · Servlets · JavaBeans · MySQL · MVC
-
-**Focus:** Object-Oriented Programming · Software Architecture · Database Systems
+</details>
 
 ---
 
-## 📚 Currently Learning & Exploring
+## 📊 GitHub dashboard
 
-- **Business & Data Analytics:** translating business problems into measurable insights.
-- **Artificial Intelligence:** developing and evaluating machine learning models.
-- **Data Engineering:** preparing, processing, and integrating data from multiple sources.
-- **Software Engineering:** improving software quality through testing and structured development practices.
-- **DevOps:** expanding my knowledge of GitHub Actions, CI/CD, Docker, and deployment.
-- **Human-Centered Design:** creating intuitive, accessible, and user-friendly applications.
+<div align="center">
 
----
+<img width="52%" src="https://github-readme-stats.vercel.app/api?username=nurinirdnz&show_icons=true&theme=gruvbox_light&hide_border=true&title_color=B8860B&icon_color=EAB308" alt="GitHub statistics" />
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurinirdnz&layout=compact&theme=gruvbox_light&hide_border=true&title_color=B8860B" alt="Most-used repository languages" />
 
-## 📈 GitHub Activity
+<img width="75%" src="https://streak-stats.demolab.com/?user=nurinirdnz&theme=gruvbox-light&hide_border=true&ring=EAB308&fire=F59E0B&currStreakLabel=B8860B" alt="GitHub contribution streak" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurinirdnz&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurinirdnz&layout=compact&theme=tokyonight&hide_border=true" width="44%" />
-</p>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nurinirdnz&bg_color=fffdf5&color=8a6700&line=eab308&point=171717&area=true&area_color=facc15&hide_border=true" alt="GitHub activity graph" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nurinirdnz&theme=tokyonight&hide_border=true" width="70%" />
-</p>
+</div>
 
 ---
 
-## 🌐 Personal Portfolio
+## 📚 Currently learning
 
-### [Explore My Portfolio](https://nurin-irdina-portfolio.onrender.com)
+<details>
+<summary><strong>🌟 See what I'm exploring next</strong></summary>
 
-Discover more about my academic journey, technical skills, projects, professional development, and experience.
+- **Business & data analytics:** Turning business problems into measurable insights.
+- **AI & ML:** Developing and evaluating machine-learning models.
+- **Data engineering:** Preparing, processing and integrating datasets.
+- **Software engineering:** Improving quality through testing and structured workflows.
+- **DevOps:** CI/CD, Docker, deployment and GitHub Actions.
+- **Human-centred design:** Accessible, intuitive digital experiences.
 
-**[Visit Portfolio](https://nurin-irdina-portfolio.onrender.com)**
+</details>
 
----
+## 🌐 Explore more
 
-## 📫 Let's Connect
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nurinirdinaz/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/nurinirdnz">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://nurin-irdina-portfolio.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:nurinirdnz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://nurin-irdina-portfolio.onrender.com"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-FACC15?style=for-the-badge&logo=vercel&logoColor=171717" alt="Visit portfolio" /></a>
 
----
+**Let's connect, collaborate and build something meaningful.**
 
-## 👀 Profile Visitors
+<a href="https://www.linkedin.com/in/nurinirdinaz/"><img src="https://img.shields.io/badge/Let's%20Connect-171717?style=for-the-badge&logo=linkedin&logoColor=FACC15" alt="LinkedIn" /></a>
+<a href="mailto:nurinirdnz@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-FACC15?style=for-the-badge&logo=gmail&logoColor=171717" alt="Email" /></a>
 
-![Profile Visitors](https://komarev.com/ghpvc/?username=nurinirdnz&label=Profile%20Visitors&color=blueviolet&style=flat)
+### 💛 Building solutions through data, technology and continuous learning.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF4B8,45:FACC15,100:EAB308&height=120&section=footer" alt="Yellow footer wave" />
 
-### 💜 Building solutions through data, technology, and continuous learning.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer&animation=fadeIn" width="100%"/>
+</div>
