@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="222" viewBox="0 0 360 222" role="img" aria-labelledby="title">
+  <title id="title">Most-used languages for nurinirdnz</title>
+  <rect x="1" y="1" width="358" height="220" rx="14" fill="#FFFBEB" stroke="#EAB308" stroke-width="2"/>
+  <g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif">
+    <text x="26" y="40" font-size="18" font-weight="700" fill="#171717">Most-Used Languages</text>
+    <clipPath id="bar"><rect x="26" y="58" width="308" height="12" rx="6"/></clipPath>
+    <rect x="26" y="58" width="308" height="12" rx="6" fill="#FEF3C7"/>
+    <g clip-path="url(#bar)">
+      <rect x="26.00" y="58" width="290.04" height="12" fill="#171717"/>
+      <rect x="316.04" y="58" width="6.69" height="12" fill="#8A6700"/>
+      <rect x="322.73" y="58" width="6.39" height="12" fill="#B8860B"/>
+      <rect x="329.12" y="58" width="3.27" height="12" fill="#EAB308"/>
+      <rect x="332.39" y="58" width="1.43" height="12" fill="#FACC15"/>
+      <rect x="333.82" y="58" width="0.18" height="12" fill="#FDE68A"/>
+    </g>
+    <rect x="26" y="92" width="11" height="11" rx="3" fill="#171717" stroke="#B8860B" stroke-width="0.6"/>
+    <text x="44" y="102" font-size="13" fill="#171717" font-weight="600">TypeScript <tspan fill="#57534E" font-weight="400">94.2%</tspan></text>
+    <rect x="186" y="92" width="11" height="11" rx="3" fill="#8A6700" stroke="#B8860B" stroke-width="0.6"/>
+    <text x="204" y="102" font-size="13" fill="#171717" font-weight="600">CSS <tspan fill="#57534E" font-weight="400">2.2%</tspan></text>
+    <rect x="26" y="120" width="11" height="11" rx="3" fill="#B8860B" stroke="#B8860B" stroke-width="0.6"/>
+    <text x="44" y="130" font-size="13" fill="#171717" font-weight="600">JavaScript <tspan fill="#57534E" font-weight="400">2.1%</tspan></text>
+    <rect x="186" y="120" width="11" height="11" rx="3" fill="#EAB308" stroke="#B8860B" stroke-width="0.6"/>
+    <text x="204" y="130" font-size="13" fill="#171717" font-weight="600">PLpgSQL <tspan fill="#57534E" font-weight="400">1.1%</tspan></text>
+    <rect x="26" y="148" width="11" height="11" rx="3" fill="#FACC15" stroke="#B8860B" stroke-width="0.6"/>
+    <text x="44" y="158" font-size="13" fill="#171717" font-weight="600">HTML <tspan fill="#57534E" font-weight="400">0.5%</tspan></text>
+    <rect x="186" y="148" width="11" height="11" rx="3" fill="#FDE68A" stroke="#B8860B" stroke-width="0.6"/>
+    <text x="204" y="158" font-size="13" fill="#171717" font-weight="600">Other <tspan fill="#57534E" font-weight="400">0.1%</tspan></text>
+    <text x="26" y="206" font-size="10" fill="#57534E">By code size across 8 public repositories</text>
+  </g>
+</svg>

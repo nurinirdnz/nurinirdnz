@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="330" viewBox="0 0 800 330" role="img" aria-labelledby="title">
+  <title id="title">Contribution activity for nurinirdnz over the last 31 days</title>
+  <rect x="1" y="1" width="798" height="328" rx="14" fill="#FFFBEB" stroke="#EAB308" stroke-width="2"/>
+  <g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif">
+    <text x="28" y="42" font-size="22" font-weight="700" fill="#171717">Contribution Activity</text>
+    <text x="28" y="64" font-size="15" fill="#57534E">118 contributions in the last 31 days</text>
+    <text x="766" y="42" font-size="14" fill="#8A6700" font-weight="600" text-anchor="end">Daily contributions</text>
+    <line x1="64" y1="270.0" x2="766" y2="270.0" stroke="#F1E2B0" stroke-width="1" />
+    <text x="52" y="275.0" font-size="14" fill="#57534E" text-anchor="end">0</text>
+    <line x1="64" y1="224.0" x2="766" y2="224.0" stroke="#F1E2B0" stroke-width="1" stroke-dasharray="4 4"/>
+    <text x="52" y="229.0" font-size="14" fill="#57534E" text-anchor="end">5</text>
+    <line x1="64" y1="178.0" x2="766" y2="178.0" stroke="#F1E2B0" stroke-width="1" stroke-dasharray="4 4"/>
+    <text x="52" y="183.0" font-size="14" fill="#57534E" text-anchor="end">10</text>
+    <line x1="64" y1="132.0" x2="766" y2="132.0" stroke="#F1E2B0" stroke-width="1" stroke-dasharray="4 4"/>
+    <text x="52" y="137.0" font-size="14" fill="#57534E" text-anchor="end">15</text>
+    <line x1="64" y1="86.0" x2="766" y2="86.0" stroke="#F1E2B0" stroke-width="1" stroke-dasharray="4 4"/>
+    <text x="52" y="91.0" font-size="14" fill="#57534E" text-anchor="end">20</text>
+    <path d="M64.0,270.0 L87.4,270.0 L110.8,270.0 L134.2,233.2 L157.6,260.8 L181.0,270.0 L204.4,270.0 L227.8,270.0 L251.2,260.8 L274.6,224.0 L298.0,122.8 L321.4,224.0 L344.8,270.0 L368.2,251.6 L391.6,270.0 L415.0,251.6 L438.4,168.8 L461.8,104.4 L485.2,242.4 L508.6,205.6 L532.0,95.2 L555.4,270.0 L578.8,196.4 L602.2,270.0 L625.6,270.0 L649.0,270.0 L672.4,270.0 L695.8,141.2 L719.2,270.0 L742.6,270.0 L766.0,251.6 L766.0,270 L64,270 Z" fill="#FACC15" fill-opacity="0.35"/>
+    <path d="M64.0,270.0 L87.4,270.0 L110.8,270.0 L134.2,233.2 L157.6,260.8 L181.0,270.0 L204.4,270.0 L227.8,270.0 L251.2,260.8 L274.6,224.0 L298.0,122.8 L321.4,224.0 L344.8,270.0 L368.2,251.6 L391.6,270.0 L415.0,251.6 L438.4,168.8 L461.8,104.4 L485.2,242.4 L508.6,205.6 L532.0,95.2 L555.4,270.0 L578.8,196.4 L602.2,270.0 L625.6,270.0 L649.0,270.0 L672.4,270.0 L695.8,141.2 L719.2,270.0 L742.6,270.0 L766.0,251.6" fill="none" stroke="#B8860B" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+    <g><circle cx="64.0" cy="270.0" r="3.2" fill="#171717"/><circle cx="87.4" cy="270.0" r="3.2" fill="#171717"/><circle cx="110.8" cy="270.0" r="3.2" fill="#171717"/><circle cx="134.2" cy="233.2" r="3.2" fill="#171717"/><circle cx="157.6" cy="260.8" r="3.2" fill="#171717"/><circle cx="181.0" cy="270.0" r="3.2" fill="#171717"/><circle cx="204.4" cy="270.0" r="3.2" fill="#171717"/><circle cx="227.8" cy="270.0" r="3.2" fill="#171717"/><circle cx="251.2" cy="260.8" r="3.2" fill="#171717"/><circle cx="274.6" cy="224.0" r="3.2" fill="#171717"/><circle cx="298.0" cy="122.8" r="3.2" fill="#171717"/><circle cx="321.4" cy="224.0" r="3.2" fill="#171717"/><circle cx="344.8" cy="270.0" r="3.2" fill="#171717"/><circle cx="368.2" cy="251.6" r="3.2" fill="#171717"/><circle cx="391.6" cy="270.0" r="3.2" fill="#171717"/><circle cx="415.0" cy="251.6" r="3.2" fill="#171717"/><circle cx="438.4" cy="168.8" r="3.2" fill="#171717"/><circle cx="461.8" cy="104.4" r="3.2" fill="#171717"/><circle cx="485.2" cy="242.4" r="3.2" fill="#171717"/><circle cx="508.6" cy="205.6" r="3.2" fill="#171717"/><circle cx="532.0" cy="95.2" r="3.2" fill="#171717"/><circle cx="555.4" cy="270.0" r="3.2" fill="#171717"/><circle cx="578.8" cy="196.4" r="3.2" fill="#171717"/><circle cx="602.2" cy="270.0" r="3.2" fill="#171717"/><circle cx="625.6" cy="270.0" r="3.2" fill="#171717"/><circle cx="649.0" cy="270.0" r="3.2" fill="#171717"/><circle cx="672.4" cy="270.0" r="3.2" fill="#171717"/><circle cx="695.8" cy="141.2" r="3.2" fill="#171717"/><circle cx="719.2" cy="270.0" r="3.2" fill="#171717"/><circle cx="742.6" cy="270.0" r="3.2" fill="#171717"/><circle cx="766.0" cy="251.6" r="3.2" fill="#171717"/></g>
+    <text x="64.0" y="296" font-size="14" fill="#57534E" text-anchor="middle">3 Oct</text>
+    <text x="181.0" y="296" font-size="14" fill="#57534E" text-anchor="middle">8 Oct</text>
+    <text x="298.0" y="296" font-size="14" fill="#57534E" text-anchor="middle">13 Oct</text>
+    <text x="415.0" y="296" font-size="14" fill="#57534E" text-anchor="middle">18 Oct</text>
+    <text x="532.0" y="296" font-size="14" fill="#57534E" text-anchor="middle">23 Oct</text>
+    <text x="649.0" y="296" font-size="14" fill="#57534E" text-anchor="middle">28 Oct</text>
+    <text x="766.0" y="296" font-size="14" fill="#57534E" text-anchor="middle">2 Nov</text>
+    <text x="766" y="318" font-size="12" fill="#57534E" text-anchor="end">Updated 2 Nov 2026</text>
+  </g>
+</svg>

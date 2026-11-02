@@ -11,26 +11,26 @@
 <a href="mailto:nurinirdnz@gmail.com"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=FACC15" alt="Email" /></a>
 <a href="https://github.com/nurinirdnz"><img src="https://img.shields.io/badge/GitHub-FACC15?style=for-the-badge&logo=github&logoColor=171717" alt="GitHub" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=nurinirdnz&label=PROFILE+VIEWS&color=EAB308&style=flat-square" alt="Profile views" />
-
 </div>
 
 ---
 
-## ✨ Hello, I'm Nurin Irdina!
+## ✨ About me
 
-I'm a **Computer Science student at UiTM** who enjoys turning complex problems into **practical, data-driven digital solutions**. My interests span **business and system analysis, data analytics, AI/ML, and full-stack software engineering**. I love designing systems that help people make better decisions and simplify everyday workflows.
+I'm a **Computer Science student at UiTM** working towards a career as a **Business & Data Analyst**. What sets me apart is that I understand systems end to end: I can **gather requirements, model the data, analyse it, and build the application** that puts the insight in front of people.
 
-<table><tr><td width="50%">
+My interests span **business and system analysis, data analytics, AI/ML, and full-stack software engineering**. I love designing systems that help people make better decisions and simplify everyday workflows.
+
+<table><tr><td width="50%" valign="top">
 
 ### 🎯 What I'm focused on
 
 - 📊 Business, data & system analysis
+- 🗄️ SQL, database design & data visualization
 - 🤖 AI, machine learning & computer vision
 - 💻 Full-stack applications & REST APIs
-- 🗄️ Databases, SQL & data visualization
 
-</td><td width="50%">
+</td><td width="50%" valign="top">
 
 ### 🌱 What I'm building
 
@@ -39,6 +39,8 @@ I'm a **Computer Science student at UiTM** who enjoys turning complex problems i
 - 🔄 Better engineering workflows with CI/CD, automated testing and Git
 
 </td></tr></table>
+
+---
 
 ## 🧰 Tech toolbox
 
@@ -83,18 +85,22 @@ I'm a **Computer Science student at UiTM** who enjoys turning complex problems i
 
 <div align="center">
 
-<a href="https://github.com/nurinirdnz/SimeTown"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nurinirdnz&repo=SimeTown&theme=gruvbox_light&hide_border=false&border_color=EAB308" alt="SimeTown repository card" /></a>
-<a href="https://github.com/nurinirdnz/Final-Year-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nurinirdnz&repo=Final-Year-Project&theme=gruvbox_light&hide_border=false&border_color=EAB308" alt="Final Year Project repository card" /></a>
-<a href="https://github.com/nurinirdnz/Jom-Dekan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nurinirdnz&repo=Jom-Dekan&theme=gruvbox_light&hide_border=false&border_color=EAB308" alt="JomDekan repository card" /></a>
-<a href="https://github.com/nurinirdnz/CSC640-week4-lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nurinirdnz&repo=CSC640-week4-lab&theme=gruvbox_light&hide_border=false&border_color=EAB308" alt="CSC640 repository card" /></a>
+<a href="https://github.com/nurinirdnz/SimeTown"><img width="400" src="./assets/projects/simetown.svg" alt="SimeTown — Township Super-App: multi-role smart township prototype. Stack: TypeScript, Full-Stack, System Design, UI/UX" /></a>
+<a href="https://github.com/nurinirdnz/Final-Year-Project"><img width="400" src="./assets/projects/final-year-project.svg" alt="Final Year Project — AI fire hotspot and haze risk prioritisation in Sarawak. Planned stack: Python, scikit-learn, XGBoost, Streamlit" /></a>
+<a href="https://github.com/nurinirdnz/Jom-Dekan"><img width="400" src="./assets/projects/jomdekan.svg" alt="JomDekan — Academic collaboration platform. Stack: React, TypeScript, Node.js, PostgreSQL" /></a>
+<a href="https://github.com/nurinirdnz/Jom-Beli"><img width="400" src="./assets/projects/jombeli.svg" alt="JomBeli — Full-stack e-commerce app. Stack: React, Express, PostgreSQL, Redis" /></a>
 
 </div>
 
-### 🏙️ [SimeTown — Township Super-App](https://github.com/nurinirdnz/SimeTown)
+### 🏙️ SimeTown — Township Super-App
 
 **Team Leader · Sime Darby Property University Hackathon 2026**
 
 A student-built, multi-role township prototype for the **Township of Tomorrow — People & Planet** challenge, connecting residents, merchants, couriers, guards and township management.
+
+📊 **Analyst angle:** Designed around five stakeholder groups, with role-based dashboards, incident tracking and reporting for township operations.
+
+🔗 [Repository](https://github.com/nurinirdnz/SimeTown) · 🌐 [Live demo](https://simetown.onrender.com/)
 
 <details>
 <summary><strong>🟡 Explore SimeTown's features and my contributions</strong></summary>
@@ -113,11 +119,15 @@ A student-built, multi-role township prototype for the **Township of Tomorrow �
 
 </details>
 
-### 🔥 [Final Year Project — AI Fire Hotspot & Haze Risk](https://github.com/nurinirdnz/Final-Year-Project)
+### 🔥 Final Year Project — AI Fire Hotspot & Haze Risk
 
 **AI-Based Real-Time Classification and Prioritisation of Fire Hotspots for Transboundary Haze Risk in Sarawak** · *Ongoing*
 
 A proposed AI and environmental analytics system combining satellite fire detections, weather and air-quality observations to support proactive haze risk monitoring.
+
+📊 **Analyst angle:** Integrates satellite, weather and air-quality datasets into predictive models and a monitoring dashboard for decision-makers.
+
+🔗 [Repository](https://github.com/nurinirdnz/Final-Year-Project)
 
 <details>
 <summary><strong>🟡 Explore proposed objectives and technology</strong></summary>
@@ -132,50 +142,38 @@ A proposed AI and environmental analytics system combining satellite fire detect
 
 </details>
 
-### 🎓 [JomDekan — Academic Collaboration Platform](https://github.com/nurinirdnz/Jom-Dekan)
+### 🎓 JomDekan — Academic Collaboration Platform
 
 A centralised student platform for academic resource sharing, discussions, tutoring and AI-powered study tools.
 
+📊 **Analyst angle:** Brings scattered study resources, discussions and tutoring into one platform backed by a PostgreSQL database.
+
+🔗 [Repository](https://github.com/nurinirdnz/Jom-Dekan)
+
 **Stack:** React · TypeScript · Node.js · Express · PostgreSQL · OpenAI API · Docker
 
-### 🔄 [CSC640 — Git, Testing & CI/CD Lab](https://github.com/nurinirdnz/CSC640-week4-lab)
+### 🛒 JomBeli — Full-Stack E-Commerce
 
-A practical lab covering Git branching, pull requests, Python automated testing, GitHub Actions, CI validation and GitHub Pages deployment.
+Built during the **KADA AI-Enabled Full Stack Bootcamp**. Includes search/filtering, shopping cart, JWT authentication, order history, server-side price verification, transactions and Redis caching.
 
-**Stack:** Python · Git · GitHub · GitHub Actions · GitHub Pages
+📊 **Analyst angle:** Orders and their items are saved in a single PostgreSQL transaction with a snapshot of each price, so order history stays accurate even when products change.
+
+🔗 [Repository](https://github.com/nurinirdnz/Jom-Beli)
+
+**Stack:** React · Zustand · Tailwind CSS · Node.js · Express · PostgreSQL · Supabase · Redis · JWT
 
 <details>
 <summary><strong>📁 More projects — click to explore</strong></summary>
 
-### 🛒 [JomBeli — Full-Stack E-Commerce](https://github.com/nurinirdnz/Jom-Beli)
+<br />
 
-Built during the **KADA AI-Enabled Full Stack Bootcamp**. Includes search/filtering, shopping cart, JWT authentication, order history, server-side price verification, transactions and Redis caching.
-
-**Stack:** React · Zustand · Tailwind CSS · Node.js · Express · PostgreSQL · Supabase · Redis · JWT
-
-### 🏃 FitWUs — AI Fitness & Wellness
-
-Full-stack platform for fitness, nutrition, hydration and wellness routines, with analytics and an AI assistant.
-
-**Stack:** React · JavaScript · Node.js · Express · MySQL · REST API · LLM integration
-
-### 🐾 Animal Image Classification
-
-CNN-based animal image classifier with a Streamlit upload and prediction interface.
-
-**Stack:** Python · TensorFlow · Keras · CNN · Streamlit
-
-### 🏥 Clinical Management System
-
-Database-driven application for structured clinical and patient information workflows.
-
-**Stack:** PHP · Oracle Database · SQL · HTML · CSS
-
-### 🛍️ PreYourLoveds!
-
-Pre-loved e-commerce application built with Java MVC architecture.
-
-**Stack:** Java · JSP · Servlets · JavaBeans · MySQL · MVC
+| Project | What it does | Stack | Code |
+|---|---|---|---|
+| 🔄 **CSC640 — Git, Testing & CI/CD Lab** | Git branching, pull requests, Python automated testing, GitHub Actions CI and GitHub Pages deployment | Python · GitHub Actions · GitHub Pages | [Repository](https://github.com/nurinirdnz/CSC640-week4-lab) |
+| 🏃 **FitWUs — AI Fitness & Wellness** | Fitness, nutrition, hydration and wellness routines, with analytics and an AI assistant | React · Node.js · Express · MySQL · LLM integration | Not public |
+| 🐾 **Animal Image Classification** | CNN-based animal image classifier with a Streamlit upload and prediction interface | Python · TensorFlow · Keras · Streamlit | Not public |
+| 🏥 **Clinical Management System** | Database-driven application for structured clinical and patient information workflows | PHP · Oracle Database · SQL | Not public |
+| 🛍️ **PreYourLoveds!** | Pre-loved e-commerce application built with Java MVC architecture | Java · JSP · Servlets · MySQL | Not public |
 
 </details>
 
@@ -185,12 +183,14 @@ Pre-loved e-commerce application built with Java MVC architecture.
 
 <div align="center">
 
-<img width="52%" src="https://github-readme-stats.vercel.app/api?username=nurinirdnz&show_icons=true&theme=gruvbox_light&hide_border=true&title_color=B8860B&icon_color=EAB308" alt="GitHub statistics" />
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurinirdnz&layout=compact&theme=gruvbox_light&hide_border=true&title_color=B8860B" alt="Most-used repository languages" />
+<img width="440" src="./assets/dashboard/stats.svg" alt="GitHub statistics" />
+<img width="360" src="./assets/dashboard/languages.svg" alt="Most-used repository languages" />
 
-<img width="75%" src="https://streak-stats.demolab.com/?user=nurinirdnz&theme=gruvbox-light&hide_border=true&ring=EAB308&fire=F59E0B&currStreakLabel=B8860B" alt="GitHub contribution streak" />
+<img width="800" src="./assets/dashboard/streak.svg" alt="GitHub contribution streak" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nurinirdnz&bg_color=fffdf5&color=8a6700&line=eab308&point=171717&area=true&area_color=facc15&hide_border=true" alt="GitHub activity graph" />
+<img width="800" src="./assets/dashboard/activity.svg" alt="GitHub contribution activity over the last 31 days" />
+
+<sub>Generated from the GitHub API and refreshed every 24 hours by <a href="./.github/workflows/update-dashboard.yml">GitHub Actions</a>.</sub>
 
 </div>
 
@@ -215,6 +215,8 @@ Pre-loved e-commerce application built with Java MVC architecture.
 <div align="center">
 
 <a href="https://nurin-irdina-portfolio.onrender.com"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-FACC15?style=for-the-badge&logo=vercel&logoColor=171717" alt="Visit portfolio" /></a>
+
+<sub>The portfolio is on a free host and may take a few seconds to wake up.</sub>
 
 **Let's connect, collaborate and build something meaningful.**
 

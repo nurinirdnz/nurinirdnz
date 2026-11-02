@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="232" viewBox="0 0 400 232" role="img" aria-labelledby="title desc">
+  <title id="title">SimeTown — Township Super-App</title>
+  <desc id="desc">Multi-role smart township prototype connecting residents, merchants, couriers, guards and township management. STACK: TypeScript, Full-Stack, System Design, UI/UX.</desc>
+  <rect x="1" y="1" width="398" height="230" rx="14" fill="#FFFBEB"/>
+  <path d="M1 15a14 14 0 0 1 14-14h370a14 14 0 0 1 14 14v5H1z" fill="#FACC15"/>
+  <rect x="1" y="1" width="398" height="230" rx="14" fill="none" stroke="#EAB308" stroke-width="2"/>
+  <g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif">
+    <rect x="24" y="36" width="44" height="44" rx="10" fill="#171717"/>
+    <text x="46" y="64" font-size="17" font-weight="800" fill="#FACC15" text-anchor="middle">ST</text>
+    <text x="80" y="50" font-size="10" font-weight="700" fill="#8A6700" letter-spacing="0.8">HACKATHON 2026 · TEAM LEADER</text>
+    <text x="80" y="73" font-size="19" font-weight="800" fill="#171717">SimeTown</text>
+    <text x="376" y="50" font-size="11" font-weight="700" fill="#8A6700" text-anchor="end">View repo →</text>
+    <text x="24" y="94" font-size="12" font-weight="600" fill="#171717" opacity="0.8">Township Super-App</text>
+    <text x="24" y="112" font-size="13" fill="#57534E">Multi-role smart township prototype connecting</text>
+    <text x="24" y="130" font-size="13" fill="#57534E">residents, merchants, couriers, guards and</text>
+    <text x="24" y="148" font-size="13" fill="#57534E">township management.</text>
+    <text x="24" y="178" font-size="9.5" font-weight="700" fill="#8A6700" letter-spacing="1">STACK</text>
+    <rect x="24" y="186" width="82" height="24" rx="12" fill="#171717"/>
+    <text x="65" y="202" font-size="11" font-weight="600" fill="#FACC15" text-anchor="middle">TypeScript</text>
+    <rect x="112" y="186" width="82" height="24" rx="12" fill="#171717"/>
+    <text x="153" y="202" font-size="11" font-weight="600" fill="#FACC15" text-anchor="middle">Full-Stack</text>
+    <rect x="200" y="186" width="102" height="24" rx="12" fill="#171717"/>
+    <text x="251" y="202" font-size="11" font-weight="600" fill="#FACC15" text-anchor="middle">System Design</text>
+    <rect x="308" y="186" width="49" height="24" rx="12" fill="#171717"/>
+    <text x="332.5" y="202" font-size="11" font-weight="600" fill="#FACC15" text-anchor="middle">UI/UX</text>
+  </g>
+</svg>

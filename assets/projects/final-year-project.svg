@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="232" viewBox="0 0 400 232" role="img" aria-labelledby="title desc">
+  <title id="title">Fire Hotspot &amp; Haze Risk — AI · Environmental Analytics</title>
+  <desc id="desc">AI-based real-time classification and prioritisation of fire hotspots for transboundary haze risk in Sarawak. PLANNED STACK: Python, scikit-learn, XGBoost, Streamlit.</desc>
+  <rect x="1" y="1" width="398" height="230" rx="14" fill="#FFFBEB"/>
+  <path d="M1 15a14 14 0 0 1 14-14h370a14 14 0 0 1 14 14v5H1z" fill="#FACC15"/>
+  <rect x="1" y="1" width="398" height="230" rx="14" fill="none" stroke="#EAB308" stroke-width="2"/>
+  <g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif">
+    <rect x="24" y="36" width="44" height="44" rx="10" fill="#171717"/>
+    <text x="46" y="64" font-size="17" font-weight="800" fill="#FACC15" text-anchor="middle">FY</text>
+    <text x="80" y="50" font-size="10" font-weight="700" fill="#8A6700" letter-spacing="0.8">FINAL YEAR PROJECT · ONGOING</text>
+    <text x="80" y="73" font-size="19" font-weight="800" fill="#171717">Fire Hotspot &amp; Haze Risk</text>
+    <text x="376" y="50" font-size="11" font-weight="700" fill="#8A6700" text-anchor="end">View repo →</text>
+    <text x="24" y="94" font-size="12" font-weight="600" fill="#171717" opacity="0.8">AI · Environmental Analytics</text>
+    <text x="24" y="112" font-size="13" fill="#57534E">AI-based real-time classification and</text>
+    <text x="24" y="130" font-size="13" fill="#57534E">prioritisation of fire hotspots for transboundary</text>
+    <text x="24" y="148" font-size="13" fill="#57534E">haze risk in Sarawak.</text>
+    <text x="24" y="178" font-size="9.5" font-weight="700" fill="#8A6700" letter-spacing="1">PLANNED STACK</text>
+    <rect x="24" y="186" width="56" height="24" rx="12" fill="#171717"/>
+    <text x="52" y="202" font-size="11" font-weight="600" fill="#FACC15" text-anchor="middle">Python</text>
+    <rect x="86" y="186" width="96" height="24" rx="12" fill="#171717"/>
+    <text x="134" y="202" font-size="11" font-weight="600" fill="#FACC15" text-anchor="middle">scikit-learn</text>
+    <rect x="188" y="186" width="63" height="24" rx="12" fill="#171717"/>
+    <text x="219.5" y="202" font-size="11" font-weight="600" fill="#FACC15" text-anchor="middle">XGBoost</text>
+    <rect x="257" y="186" width="76" height="24" rx="12" fill="#171717"/>
+    <text x="295" y="202" font-size="11" font-weight="600" fill="#FACC15" text-anchor="middle">Streamlit</text>
+  </g>
+</svg>

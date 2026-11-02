@@ -1,0 +1,49 @@
+name: Update GitHub dashboard
+
+on:
+  schedule:
+    - cron: "17 0 * * *" # daily at 00:17 UTC (08:17 MYT)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/generate-dashboard.mjs
+      - .github/workflows/update-dashboard.yml
+
+permissions:
+  contents: write # only to commit the regenerated SVGs
+
+concurrency:
+  group: update-dashboard
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate dashboard SVGs
+        # METRICS_TOKEN is optional (read-only PAT). Without it the built-in token is used,
+        # which covers all public data. On failure nothing is written, so the last good SVGs stay.
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: node scripts/generate-dashboard.mjs
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/dashboard
+          if git diff --staged --quiet; then
+            echo "Dashboard unchanged."
+          else
+            git commit -m "chore: update GitHub dashboard [skip ci]"
+            git push
+          fi
