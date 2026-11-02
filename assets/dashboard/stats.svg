@@ -8,7 +8,7 @@
     <text x="262" y="78" font-size="13" font-weight="700" fill="#171717" text-anchor="end">151</text>
     <rect x="26" y="94" width="9" height="9" rx="2" fill="#171717"/>
     <text x="44" y="103" font-size="13" fill="#57534E">Pull requests</text>
-    <text x="262" y="103" font-size="13" font-weight="700" fill="#171717" text-anchor="end">28</text>
+    <text x="262" y="103" font-size="13" font-weight="700" fill="#171717" text-anchor="end">27</text>
     <rect x="26" y="119" width="9" height="9" rx="2" fill="#EAB308"/>
     <text x="44" y="128" font-size="13" fill="#57534E">Issues</text>
     <text x="262" y="128" font-size="13" font-weight="700" fill="#171717" text-anchor="end">6</text>

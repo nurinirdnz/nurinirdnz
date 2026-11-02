@@ -6,19 +6,19 @@
     <clipPath id="bar"><rect x="26" y="58" width="308" height="12" rx="6"/></clipPath>
     <rect x="26" y="58" width="308" height="12" rx="6" fill="#FEF3C7"/>
     <g clip-path="url(#bar)">
-      <rect x="26.00" y="58" width="290.04" height="12" fill="#171717"/>
-      <rect x="316.04" y="58" width="6.69" height="12" fill="#8A6700"/>
-      <rect x="322.73" y="58" width="6.39" height="12" fill="#B8860B"/>
-      <rect x="329.12" y="58" width="3.27" height="12" fill="#EAB308"/>
+      <rect x="26.00" y="58" width="289.40" height="12" fill="#171717"/>
+      <rect x="315.40" y="58" width="7.05" height="12" fill="#8A6700"/>
+      <rect x="322.45" y="58" width="6.68" height="12" fill="#B8860B"/>
+      <rect x="329.13" y="58" width="3.27" height="12" fill="#EAB308"/>
       <rect x="332.39" y="58" width="1.43" height="12" fill="#FACC15"/>
       <rect x="333.82" y="58" width="0.18" height="12" fill="#FDE68A"/>
     </g>
     <rect x="26" y="92" width="11" height="11" rx="3" fill="#171717" stroke="#B8860B" stroke-width="0.6"/>
-    <text x="44" y="102" font-size="13" fill="#171717" font-weight="600">TypeScript <tspan fill="#57534E" font-weight="400">94.2%</tspan></text>
+    <text x="44" y="102" font-size="13" fill="#171717" font-weight="600">TypeScript <tspan fill="#57534E" font-weight="400">94.0%</tspan></text>
     <rect x="186" y="92" width="11" height="11" rx="3" fill="#8A6700" stroke="#B8860B" stroke-width="0.6"/>
-    <text x="204" y="102" font-size="13" fill="#171717" font-weight="600">CSS <tspan fill="#57534E" font-weight="400">2.2%</tspan></text>
+    <text x="204" y="102" font-size="13" fill="#171717" font-weight="600">JavaScript <tspan fill="#57534E" font-weight="400">2.3%</tspan></text>
     <rect x="26" y="120" width="11" height="11" rx="3" fill="#B8860B" stroke="#B8860B" stroke-width="0.6"/>
-    <text x="44" y="130" font-size="13" fill="#171717" font-weight="600">JavaScript <tspan fill="#57534E" font-weight="400">2.1%</tspan></text>
+    <text x="44" y="130" font-size="13" fill="#171717" font-weight="600">CSS <tspan fill="#57534E" font-weight="400">2.2%</tspan></text>
     <rect x="186" y="120" width="11" height="11" rx="3" fill="#EAB308" stroke="#B8860B" stroke-width="0.6"/>
     <text x="204" y="130" font-size="13" fill="#171717" font-weight="600">PLpgSQL <tspan fill="#57534E" font-weight="400">1.1%</tspan></text>
     <rect x="26" y="148" width="11" height="11" rx="3" fill="#FACC15" stroke="#B8860B" stroke-width="0.6"/>
