@@ -17,7 +17,7 @@
 
 ---
 
-## ✨ Hello, world!
+## ✨ Hello, I'm Nurin Irdina!
 
 I'm a **Computer Science student at UiTM** who enjoys turning complex problems into **practical, data-driven digital solutions**. My interests span **business and system analysis, data analytics, AI/ML, and full-stack software engineering**. I love designing systems that help people make better decisions and simplify everyday workflows.
 
