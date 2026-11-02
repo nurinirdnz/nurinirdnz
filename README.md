@@ -11,6 +11,8 @@
 <a href="mailto:nurinirdnz@gmail.com"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=FACC15" alt="Email" /></a>
 <a href="https://github.com/nurinirdnz"><img src="https://img.shields.io/badge/GitHub-FACC15?style=for-the-badge&logo=github&logoColor=171717" alt="GitHub" /></a>
 
+<img src="https://komarev.com/ghpvc/?username=nurinirdnz&label=PROFILE+VIEWS&color=EAB308&style=flat-square" alt="Profile views" />
+
 </div>
 
 ---
