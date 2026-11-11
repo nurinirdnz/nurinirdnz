@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/nurinirdinaz/"><img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=FACC15" alt="LinkedIn" /></a>
 <a href="https://nurin-irdina.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FACC15?style=for-the-badge&logo=vercel&logoColor=171717" alt="Portfolio" /></a>
 <a href="mailto:nurinirdnz@gmail.com"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=FACC15" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=nurinirdnz&label=PROFILE+VIEWS&color=EAB308&style=flat-square" alt="Profile views" />
 
 </div>
 
