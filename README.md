@@ -7,7 +7,7 @@
 <p><strong>🎓 Third-Year Bachelor of Computer Science (Hons.) · Universiti Teknologi MARA (UiTM)</strong></p>
 
 <a href="https://www.linkedin.com/in/nurinirdinaz/"><img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=FACC15" alt="LinkedIn" /></a>
-<a href="https://nurin-irdina-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-FACC15?style=for-the-badge&logo=vercel&logoColor=171717" alt="Portfolio" /></a>
+<a href="https://nurin-irdina.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FACC15?style=for-the-badge&logo=vercel&logoColor=171717" alt="Portfolio" /></a>
 <a href="mailto:nurinirdnz@gmail.com"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=FACC15" alt="Email" /></a>
 <a href="https://github.com/nurinirdnz"><img src="https://img.shields.io/badge/GitHub-FACC15?style=for-the-badge&logo=github&logoColor=171717" alt="GitHub" /></a>
 
@@ -216,7 +216,7 @@ Built during the **KADA AI-Enabled Full Stack Bootcamp**. Includes search/filter
 
 <div align="center">
 
-<a href="https://nurin-irdina-portfolio.onrender.com"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-FACC15?style=for-the-badge&logo=vercel&logoColor=171717" alt="Visit portfolio" /></a>
+<a href="https://nurin-irdina.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-FACC15?style=for-the-badge&logo=vercel&logoColor=171717" alt="Visit portfolio" /></a>
 
 <sub>The portfolio is on a free host and may take a few seconds to wake up.</sub>
 
