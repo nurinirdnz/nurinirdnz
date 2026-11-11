@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF4B8,45:FACC15,100:EAB308&height=200&section=header&text=NURIN%20IRDINA&fontSize=52&fontColor=171717&fontAlignY=38&desc=Aspiring%20Business%20%26%20Data%20Analyst%20%C2%B7%20Builds%20Full-Stack%20%26%20AI%20Apps&descAlignY=60&descSize=17&animation=fadeIn" alt="Nurin Irdina — Aspiring Business & Data Analyst" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF4B8,45:FACC15,100:EAB308&height=200&section=header&text=NURIN%20IRDINA&fontSize=52&fontColor=171717&fontAlignY=38&desc=Aspiring%20Business%20and%20Data%20Analyst%20%C2%B7%20Builds%20Full-Stack%20and%20AI%20Apps&descAlignY=60&descSize=17&animation=fadeIn" alt="Nurin Irdina — Aspiring Business & Data Analyst" />
 
 **🎓 Third-Year BSc (Hons.) Computer Science · Universiti Teknologi MARA (UiTM)**
 
