@@ -6,8 +6,8 @@
     <clipPath id="bar"><rect x="26" y="58" width="308" height="12" rx="6"/></clipPath>
     <rect x="26" y="58" width="308" height="12" rx="6" fill="#FEF3C7"/>
     <g clip-path="url(#bar)">
-      <rect x="26.00" y="58" width="289.06" height="12" fill="#171717"/>
-      <rect x="315.06" y="58" width="7.17" height="12" fill="#8A6700"/>
+      <rect x="26.00" y="58" width="288.88" height="12" fill="#171717"/>
+      <rect x="314.88" y="58" width="7.35" height="12" fill="#8A6700"/>
       <rect x="322.23" y="58" width="6.88" height="12" fill="#B8860B"/>
       <rect x="329.11" y="58" width="3.26" height="12" fill="#EAB308"/>
       <rect x="332.37" y="58" width="1.46" height="12" fill="#FACC15"/>
@@ -16,7 +16,7 @@
     <rect x="26" y="92" width="11" height="11" rx="3" fill="#171717" stroke="#B8860B" stroke-width="0.6"/>
     <text x="44" y="102" font-size="13" fill="#171717" font-weight="600">TypeScript <tspan fill="#57534E" font-weight="400">93.8%</tspan></text>
     <rect x="186" y="92" width="11" height="11" rx="3" fill="#8A6700" stroke="#B8860B" stroke-width="0.6"/>
-    <text x="204" y="102" font-size="13" fill="#171717" font-weight="600">JavaScript <tspan fill="#57534E" font-weight="400">2.3%</tspan></text>
+    <text x="204" y="102" font-size="13" fill="#171717" font-weight="600">JavaScript <tspan fill="#57534E" font-weight="400">2.4%</tspan></text>
     <rect x="26" y="120" width="11" height="11" rx="3" fill="#B8860B" stroke="#B8860B" stroke-width="0.6"/>
     <text x="44" y="130" font-size="13" fill="#171717" font-weight="600">CSS <tspan fill="#57534E" font-weight="400">2.2%</tspan></text>
     <rect x="186" y="120" width="11" height="11" rx="3" fill="#EAB308" stroke="#B8860B" stroke-width="0.6"/>
@@ -25,6 +25,6 @@
     <text x="44" y="158" font-size="13" fill="#171717" font-weight="600">HTML <tspan fill="#57534E" font-weight="400">0.5%</tspan></text>
     <rect x="186" y="148" width="11" height="11" rx="3" fill="#FDE68A" stroke="#B8860B" stroke-width="0.6"/>
     <text x="204" y="158" font-size="13" fill="#171717" font-weight="600">Other <tspan fill="#57534E" font-weight="400">0.1%</tspan></text>
-    <text x="26" y="206" font-size="10" fill="#57534E">By code size across 8 public repositories</text>
+    <text x="26" y="206" font-size="10" fill="#57534E">By code size across 9 public repositories</text>
   </g>
 </svg>
